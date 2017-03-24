@@ -66,7 +66,7 @@ int daystAmount(int d, int m)
 	
 int main()
 {
-	int m, d;
+  int m, d, k;
 	printf("Ваш вклад:");
 	if(scanf("%d",&m)!=1)
 	{
